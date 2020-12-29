@@ -1,4 +1,6 @@
 #Python
 Python = input("Python: ")
 if Python == "Python":
-  print("Python")
+  Pythonn = input("Pythonn: ")
+  if Pythonn == "Python":
+    #repeat
